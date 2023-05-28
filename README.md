@@ -7,7 +7,7 @@
 ## Show some :heart: and star the repo to support the project.
 
 ## Download <span>&#128071;</span>
-   <a href="https://github.com/Sagarbisht509/Instagram_clone/releases/download/v1.0/Instagram.Clone.apk"><img src="https://user-images.githubusercontent.com/81458873/114413763-e6561680-9bcb-11eb-9d41-64c9d1414c90.png" width="32%" /></a>
+   <a href="https://github.com/Rohit-Masiwal/Instagram_clone/releases/download/v1.0/Instagram.Clone.apk"><img src="https://user-images.githubusercontent.com/81458873/114413763-e6561680-9bcb-11eb-9d41-64c9d1414c90.png" width="32%" /></a>
 
 ## Features
 
@@ -66,4 +66,4 @@
  
    Hit me on 
  
-   <a href="https://www.linkedin.com/in/sagar-bisht-4094151b6/"><img src="https://user-images.githubusercontent.com/35039342/55471530-94b34280-5627-11e9-8c0e-6fe86a8406d6.png" width="60"></a>
+   <a href="https://www.linkedin.com/in/rohitmasiwal/"><img src="https://user-images.githubusercontent.com/35039342/55471530-94b34280-5627-11e9-8c0e-6fe86a8406d6.png" width="60"></a>
