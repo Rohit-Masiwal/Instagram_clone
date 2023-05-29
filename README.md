@@ -32,7 +32,7 @@
    * like notificatiions
    * comment notifications
   
-## Screenshots
+<!-- ## Screenshots
   
    <p>
   
@@ -54,7 +54,7 @@
   
    <img src="https://user-images.githubusercontent.com/81458873/113547046-d017eb80-960a-11eb-947d-fb3365639e62.jpg" alt="edit profile example" width = "200" >
   
-   </p>
+   </p> -->
   
 ## Upcoming features
    * Edit post or delete post
